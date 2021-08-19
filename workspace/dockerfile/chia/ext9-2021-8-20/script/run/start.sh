@@ -2,7 +2,7 @@
 # 拨号启动脚本 2021-8-1 06:15:28
 
 __run() {
-    _name='chia-net9'
+    _name='chia-ext9'
     docker rm -f "$_name"
     docker run -itd --name="$_name" \
         --hostname="$_name" \
