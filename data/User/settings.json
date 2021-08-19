@@ -1,0 +1,8 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.tree.indent": 16,
+    "extensions.autoCheckUpdates": false,
+    "extensions.autoUpdate": false,
+    "vsicons.dontShowNewVersionMessage": true
+}

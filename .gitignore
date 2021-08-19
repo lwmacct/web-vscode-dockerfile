@@ -1,0 +1,9 @@
+data/logs/*
+data/clp/*
+data/User/state/*
+data/User/workspaceStorage/*
+.local/share/code-server/*
+.bash_history
+.ssh/*
+.cache/*
+.mume/*
